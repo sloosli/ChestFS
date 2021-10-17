@@ -1,0 +1,10 @@
+﻿{
+  "Name": "Chest FS",
+  "Author": "sloosli",
+  "Version": "0.0.1",
+  "Description": "Stash your inventory in nearby chests",
+  "UniqueID": "sloosli.ChestFS",
+  "EntryDll": "MyCoolNewMod.dll",
+  "MinimumApiVersion": "3.12.2",
+  "UpdateKeys": []
+}
